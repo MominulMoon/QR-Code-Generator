@@ -127,7 +127,6 @@ QR-Code-Generator/
 CSE Student (RUET) | Web Developer
 🔗 GitHub: [https://github.com/MominulMoon](https://github.com/MominulMoon)
 
----
 
 ## ⭐ Support
 
@@ -136,4 +135,3 @@ and feel free to fork & contribute!
 
 Happy Coding 🚀
 
-```
