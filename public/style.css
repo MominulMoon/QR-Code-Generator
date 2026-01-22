@@ -1,0 +1,23 @@
+body {
+  background: linear-gradient(135deg, #89f7fe 0%, #66a6ff 100%);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Arial', sans-serif;
+}
+
+h1 {
+  color: #fff;
+  animation: fadeIn 2s ease-in-out;
+}
+
+@keyframes fadeIn {
+  0% { opacity: 0; transform: translateY(-20px);}
+  100% { opacity: 1; transform: translateY(0);}
+}
+
+input, button {
+  max-width: 400px;
+  margin: 0 auto;
+}
