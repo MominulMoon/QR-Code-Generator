@@ -82,10 +82,8 @@ nodemon index.js
 After running the server, open your browser and go to:
 
 ```
-http://localhost:3000
+http://localhost:2715
 ```
-
-(Port number may vary — check your terminal output)
 
 ---
 
