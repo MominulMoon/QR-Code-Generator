@@ -37,5 +37,5 @@ app.post("/generate", (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`Port is Runnig On ${port}`);
+  console.log(`Port is Runnig On http://localhost:${port}`);
 });
